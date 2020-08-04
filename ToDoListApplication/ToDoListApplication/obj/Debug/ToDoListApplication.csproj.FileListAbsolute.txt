@@ -1,0 +1,17 @@
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\ToDoListApplication.exe.config
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\ToDoListApplication.exe
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\bin\Debug\ToDoListApplication.pdb
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.forms.Calendar.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.forms.CalendarMonth.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.forms.CalendarYear.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.forms.todolisteditor.ToDoListEditor.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.forms.ToDoList.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.forms.todolist.ToDoTask.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.ToDoListAppRoot.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.Properties.Resources.resources
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.csproj.GenerateResource.cache
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.csproj.CoreCompileInputs.cache
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.exe
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.pdb
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.csprojAssemblyReference.cache
+C:\Users\Antony Ademefun\source\repos\ToDoListApplication\ToDoListApplication\obj\Debug\ToDoListApplication.forms.ToDoListTaskEditor.resources
